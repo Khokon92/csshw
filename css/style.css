@@ -1,0 +1,126 @@
+/*/*
+.about{
+    background: red;
+    height: 500px;
+    width: 500px;
+}
+.about p{
+    font-size: 20px;
+    color: white;
+    padding: 24px;
+    text-align: justify;
+    line-height: 24px;
+}
+.about .about_child {
+    background: blue;
+    height: 300px;
+    width: 500px;
+}
+.about_child h5{
+    font-size: 30px;
+    color: white;
+    padding: 24px;
+    text-align: justify;
+    line-height: 24px;
+}
+.about_childs {
+    background: yellow;
+    height: 500px;
+    width: 500px;
+}
+.about .about_childs h6{
+    font-size: 25px;
+    color: orangered;
+    padding: 24px;
+    text-align: justify;
+    line-height: 24px;
+}
+
+.bangladesh,.bangla,.banner{
+    height: 200px;
+    width: 200px;
+    border: 1px solid;
+    margin: 10px;
+    padding: 10px;
+    background-color: springgreen;
+
+}
+.bangla_two{
+background-color: red !important ;
+border-radius: 80%;
+
+}
+.bangladesh p,.bangla p,.banner p{
+    color: black;
+    text-align: center;
+    text-transform: uppercase;
+
+}
+.banner_two{
+    border-radius: 10px;
+    background-color: chartreuse;
+}
+/*23,02,21*/
+
+.post1,.post2,.post3{
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+}
+.post1{
+    background-color: yellow;
+    border-radius: 10%;
+    position:relative;
+    top: 120px;
+    z-index: 99;
+
+}
+.post2{
+    background-color: springgreen;
+    border-radius: 120px;
+    position:relative;
+    bottom: 102px;
+    z-index: 999;
+    
+}
+.post3{
+    background-color: red;
+    border-radius: 30%;
+    position:fixed;
+    right: 50px;
+    top: 5px;
+}
+.about4,.about5,.about6{
+    height: 300px;
+    width: 300px;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    position: relative;
+    bottom: 330px;
+ 
+}
+.about4{
+    background-color:yellow;
+    border-radius: 40px;
+}
+.about5{
+    background-color: darkblue;
+    border-radius: 90px;
+}
+.about6{
+    background-color: red;
+    border-radius: 80px;
+}
+.about4 a{
+    font-size: 20px;
+    color: red;
+}
+.post3 {
+    font-size: 20px;
+    color:white;
+}
+
